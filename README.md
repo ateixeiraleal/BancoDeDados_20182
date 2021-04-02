@@ -1,2 +1,5 @@
-# BancoDeDados_20182
-Arquivos utilizados no trabalho da disciplina "Introdução a Sistemas de Banco de Dados". 
+# Descrição do Problema
+<p>Diariamente recebemos um volume altíssimo de informações e tanta informação atrelada às nossas responsabilidades cotidianas, considerando ainda que tudo isso ocorre ao mesmo tempo, nos causa uma estranha sensação de que o tempo está, a cada dia, passando mais e mais depressa.</p>
+<p>Peter Drucker afirmou: “Tempo é o recurso mais escasso e, a não ser que ele seja gerenciado, nada mais pode ser gerenciado”.</p>
+<p>Diante do problema supramencionado propomos uma solução que tem como finalidade gerenciar todos os trâmites referente a realização de eventos das mais variadas naturezas, fazendo com que aqueles que contratam alguns de nossos serviços, disponham de mais tempo para cuidarem daquilo que realmente lhes é mais importante.</p>
+<p>Basicamente esta gerência de eventos funcionará da seguinte maneira: O contratante requisita o orçamento de um evento que poderá ou não gerar um contrato de evento. O objetivo do contrato será a realização do um evento que por sua vez vez contará com um local ideal, de forma a atender às necessidades de cada evento com todas as suas especificidades e caso haja a necessidade poderá ainda contar com um serviço de buffet e uma lista de convidados.</p>
